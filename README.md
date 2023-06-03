@@ -1,6 +1,6 @@
 # Intima - Mutual Attention Networks
 
-## This is a discontinued project from 2019 that I am releasing into the public domain - a novel idea to counter #disinformation, digital #addiction and loss of #trust. TL;DR 👇🏽 
+### This is a discontinued project from 2019 that I am releasing into the public domain - a novel idea to counter #disinformation, digital #addiction and loss of #trust. TL;DR 👇🏽 
 
 The basic idea - we are evolved for face-to-face communication in which we use *mutual attention* (e.g. through gaze 👁) to regulate / filter communication. This forms a "meta-network" that controls the flow of information. 
 
